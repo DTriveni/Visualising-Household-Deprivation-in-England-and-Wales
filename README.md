@@ -24,25 +24,6 @@ Four interactive Tableau dashboards are produced, supported by a Python data pre
 
 ---
 
-## Repository Structure
-
-```
-├── data/
-│   ├── raw/                  # Original ONS Census files (2011 and 2021)
-│   └── processed/            # Cleaned and merged datasets ready for analysis
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_pca_tsne.ipynb
-│   └── 04_bayesian_regression.ipynb
-├── dashboards/               # Tableau workbook files (.twbx)
-├── figures/                  # Exported visualisation screenshots
-├── report/                   # Final submitted report (PDF)
-└── README.md
-```
-
----
-
 ## Data Sources
 
 > **Data Notice:** All data used in this project is sourced from the **UK Census (Office for National Statistics)** and is used strictly for **educational and study purposes** as part of the MSc Data Science and AI programme at the University of Bristol. The data is publicly available and no personal or identifiable information is included.

@@ -1,13 +1,6 @@
 # Visualising Household Deprivation in England and Wales
 ### A Comparative Analysis of the 2011 and 2021 Censuses
 
-**Module:** Visual Analytics (EMATM0066 2025 TB-2)  
-**Institution:** University of Bristol  
-**Author:** Triveni Dhamdhere  
-**Submitted:** May 2026
-
----
-
 ## Overview
 
 This project analyses household deprivation across 175 local authorities in England and Wales using data from the 2011 and 2021 UK Censuses. It combines six deprivation-related variables — poverty dimensions, general health, economic activity, educational qualifications, central heating, and number of bedrooms — to examine spatial patterns, structural causes, and temporal change over a decade.
